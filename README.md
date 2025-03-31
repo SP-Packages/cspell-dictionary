@@ -11,7 +11,6 @@
   <a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/semantic--release-conventionalcommits-e10079?logo=semantic-release" alt="semantic-release"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Made%20with-TypeScript-blue.svg" alt="TypeScript"></a>
   <a href="https://prettier.io/"><img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="Prettier"></a>
-  <a href="https://codecov.io/gh/SP-Packages/cspell-dictionary"><img src="https://codecov.io/gh/SP-Packages/cspell-dictionary/graph/badge.svg?token=60X95UNTQL" alt="codecov"></a>
   <a href="https://github.com/SP-Packages/cspell-dictionary/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
   <a href="https://github.com/sponsors/iamsenthilprabu"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github" alt="Sponsor"></a>
 </p>
