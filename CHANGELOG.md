@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/SP-Packages/cspell-dictionary/compare/v1.1.0...v1.1.1) (2025-03-31)
+
+### Bug Fixes
+
+* **package:** include src directory in package files ([0b397a8](https://github.com/SP-Packages/cspell-dictionary/commit/0b397a8f41d7204660a84c753d65e450a9dc8cb4))
+
 ## [1.1.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.0.0...v1.1.0) (2025-03-31)
 
 ### Features
