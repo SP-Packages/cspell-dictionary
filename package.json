@@ -18,6 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/SP-Packages/cspell-dictionary.git"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "publishConfig": {
     "access": "public"
   },
