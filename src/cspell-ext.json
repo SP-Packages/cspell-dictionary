@@ -1,0 +1,33 @@
+{
+  "id": "sp-packages/cspell-dictionary",
+  "name": "@sp-packages/cspell-dictionary",
+  "description": "A custom dictionary for Senthil Ponnusamy's projects used with cSpell.",
+  "dictionaryDefinitions": [
+    {
+      "name": "libraries",
+      "path": "./dictionaries/libraries.txt"
+    },
+    {
+      "name": "linting-tools",
+      "path": "./dictionaries/linting-tools.txt"
+    },
+    {
+      "name": "personal",
+      "path": "./dictionaries/personal.txt"
+    },
+    {
+      "name": "system",
+      "path": "./dictionaries/system.txt"
+    },
+    {
+      "name": "vendor",
+      "path": "./dictionaries/vendor.txt"
+    },
+
+    {
+      "name": "wordpress",
+      "path": "./dictionaries/wordpress.txt"
+    }
+  ],
+  "dictionaries": ["libraries", "linting-tools", "personal", "system", "vendor", "wordpress"]
+}

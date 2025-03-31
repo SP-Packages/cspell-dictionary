@@ -1,0 +1,4 @@
+# WordPress
+akismet
+muplugin
+twentytwenty

@@ -1,0 +1,12 @@
+# Development Tools & Linting
+codesniffer
+commitlint
+conventionalcommits
+depcheck
+depkit
+lintrc
+markdownlintrc
+phpcbf
+phpcodesniffer
+phpcsfixer
+wpcs
