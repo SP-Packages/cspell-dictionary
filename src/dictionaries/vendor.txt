@@ -1,0 +1,5 @@
+# Vendor Names
+dealerdirect
+johnpbloch
+squizlabs
+vlucas
