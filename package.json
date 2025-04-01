@@ -65,7 +65,6 @@
     "@sp-packages/lintrc": "^1.3.0",
     "conventional-changelog-conventionalcommits": "^8.0.0",
     "depcheck": "^1.4.7",
-    "esbuild": "^0.25.1",
     "eslint": "^9.23.0",
     "eslint-config-prettier": "^10.1.1",
     "eslint-plugin-jsdoc": "^50.6.9",
@@ -78,7 +77,7 @@
     "semantic-release": "^24.2.3"
   },
   "scripts": {
-    "build": "tsc && esbuild dist/**/*.js --minify --outdir=dist --allow-overwrite --tree-shaking=true --platform=node",
+    "build": "echo 'no build step' && exit 0",
     "postinstall": "husky install"
   }
 }
