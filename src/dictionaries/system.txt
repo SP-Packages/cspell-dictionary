@@ -8,3 +8,10 @@ phpmyadmin
 portforward
 siteurl
 webroot
+
+# Server
+sshpass
+
+# Databases
+mysqldump
+tablespaces
