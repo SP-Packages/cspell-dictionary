@@ -1,3 +1,15 @@
+## [1.2.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.1.1...v1.2.0) (2025-04-01)
+
+### Features
+
+* **funding:** add custom PayPal link for additional support ([312dadc](https://github.com/SP-Packages/cspell-dictionary/commit/312dadc93253ed5cbb3cddd8339f087f9bef4561))
+* **labeler:** enhance labeler configuration for various file types ([b5f38c9](https://github.com/SP-Packages/cspell-dictionary/commit/b5f38c9fdbb2738ef5d8f14e321e29845609d7d7))
+* **tools:** update dependencies and configurations ([d6ee9a6](https://github.com/SP-Packages/cspell-dictionary/commit/d6ee9a60e628671ae47b794a01923226ea6dd24c))
+
+### Bug Fixes
+
+* **dictionaries:** add server and databases entries to system.txt ([1efd3ac](https://github.com/SP-Packages/cspell-dictionary/commit/1efd3ac8dfa22290021cbf698794d8067219eaa9))
+
 ## [1.1.1](https://github.com/SP-Packages/cspell-dictionary/compare/v1.1.0...v1.1.1) (2025-03-31)
 
 ### Bug Fixes
