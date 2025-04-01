@@ -4,8 +4,8 @@
       "title": "Commit Lint",
       "type": "npm",
       "command": "commitlint",
-      "args": ["--from=origin/main", "--to HEAD"],
-      "behavior": "warn",
+      "args": ["--from=origin/main", "--to=HEAD"],
+      "behavior": "error",
       "includeFiles": false,
       "priority": 9
     },
@@ -30,14 +30,14 @@
       "type": "npm",
       "command": "markdownlint",
       "args": ["--fix"],
-      "behavior": "warn",
+      "behavior": "error",
       "priority": 5
     },
     "PHPCBF": {
       "title": "PHP Code Beautifier",
       "type": "composer",
       "command": "phpcbf",
-      "behavior": "warn",
+      "behavior": "error",
       "priority": 3
     },
     "PHPCS": {
@@ -90,6 +90,6 @@
     "css": ["PRETTIER"],
     "scss": ["PRETTIER"],
     "less": ["PRETTIER"],
-    "*": ["COMMITLINT"]
+    "*": ["COMMITLINT", "DEPCHECK"]
   }
 }
