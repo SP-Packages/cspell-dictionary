@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.0...v1.2.1) (2025-04-02)
+
+### Bug Fixes
+
+* **dictionaries:** add new libraries and styles to dictionaries ([8dea26a](https://github.com/SP-Packages/cspell-dictionary/commit/8dea26a7884cc671a02d963f48b1cf2c562ac44f))
+
 ## [1.2.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.1.1...v1.2.0) (2025-04-01)
 
 ### Features
