@@ -1,5 +1,7 @@
 # Libraries & Dependencies
 copyrc
 dotenv
+fontawesome
+intelephense
 landorc
 phpdotenv

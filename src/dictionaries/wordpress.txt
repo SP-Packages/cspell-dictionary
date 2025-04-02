@@ -2,3 +2,4 @@
 akismet
 muplugin
 twentytwenty
+wpackagist

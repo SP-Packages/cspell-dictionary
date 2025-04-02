@@ -1,5 +1,8 @@
 # Vendor Names
 dealerdirect
 johnpbloch
+norrsken
 squizlabs
+shivammathur
+szepeviktor
 vlucas

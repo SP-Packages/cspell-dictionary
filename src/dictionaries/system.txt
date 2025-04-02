@@ -9,6 +9,9 @@ portforward
 siteurl
 webroot
 
+# Style
+desaturated
+
 # Server
 sshpass
 
