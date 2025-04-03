@@ -1,5 +1,13 @@
 # WordPress
-akismet
-muplugin
-twentytwenty
+
 wpackagist
+
+# Themes
+norrsken
+twentytwenty
+
+# Plugins
+muplugin
+akismet
+autodescription
+wordfence
