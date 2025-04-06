@@ -1,5 +1,6 @@
 # Libraries & Dependencies
 copyrc
+dashicons
 dotenv
 fontawesome
 intelephense

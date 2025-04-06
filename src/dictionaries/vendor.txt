@@ -6,3 +6,8 @@ shivammathur
 szepeviktor
 vlucas
 webfactory
+
+# Brands
+envira
+mailpoet
+theseoframework

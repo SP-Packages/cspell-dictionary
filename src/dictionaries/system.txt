@@ -11,6 +11,7 @@ webroot
 
 # Code
 elif
+staticize
 
 # Style
 desaturated
