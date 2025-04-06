@@ -1,7 +1,7 @@
 {
   "name": "@sp-packages/cspell-dictionary",
   "description": "A custom dictionary for Senthil Ponnusamy's projects used with cSpell.",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "type": "module",
   "license": "MIT",
   "author": {
