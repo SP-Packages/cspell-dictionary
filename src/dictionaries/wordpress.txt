@@ -15,3 +15,7 @@ mailpoet
 theseoframework
 updraftplus
 wordfence
+
+# Classes
+adminmenuback
+adminmenuwrap
