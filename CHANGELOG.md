@@ -1,3 +1,9 @@
+## [1.2.3](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.2...v1.2.3) (2025-04-06)
+
+### Bug Fixes
+
+* **dictionaries:** add new entries to libraries, system, and vendor ([70bef42](https://github.com/SP-Packages/cspell-dictionary/commit/70bef42a4de1bf133a5d8b53bf854c31d9d5a3b9))
+
 ## [1.2.2](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.1...v1.2.2) (2025-04-03)
 
 ### Bug Fixes
