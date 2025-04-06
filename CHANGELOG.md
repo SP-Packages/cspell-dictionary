@@ -1,3 +1,9 @@
+## [1.2.4](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.3...v1.2.4) (2025-04-06)
+
+### Bug Fixes
+
+* **dictionaries:** add 'civis' and 'cnorm' to system dictionary ([4e6920e](https://github.com/SP-Packages/cspell-dictionary/commit/4e6920e76906ff5056d880d974148d9ac3580a22))
+
 ## [1.2.3](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.2...v1.2.3) (2025-04-06)
 
 ### Bug Fixes
