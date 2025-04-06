@@ -1,3 +1,9 @@
+## [1.2.6](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.5...v1.2.6) (2025-04-06)
+
+### Bug Fixes
+
+* **dictionaries:** add new classes to WordPress dictionary ([2f725b0](https://github.com/SP-Packages/cspell-dictionary/commit/2f725b052e082efb813b79656d02e320a2356b4b))
+
 ## [1.2.5](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.4...v1.2.5) (2025-04-06)
 
 ### Bug Fixes
