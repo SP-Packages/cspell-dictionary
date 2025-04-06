@@ -10,4 +10,8 @@ twentytwenty
 muplugin
 akismet
 autodescription
+envira
+mailpoet
+theseoframework
+updraftplus
 wordfence

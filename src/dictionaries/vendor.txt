@@ -8,6 +8,4 @@ vlucas
 webfactory
 
 # Brands
-envira
-mailpoet
-theseoframework
+disqus

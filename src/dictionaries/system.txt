@@ -20,6 +20,7 @@ desaturated
 
 # Server
 sshpass
+litespeed
 
 # Databases
 mysqldump
