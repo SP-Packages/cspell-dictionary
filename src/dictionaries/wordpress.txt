@@ -19,3 +19,8 @@ wordfence
 # Classes
 adminmenuback
 adminmenuwrap
+wpcontent
+wpfooter
+
+# Constants
+pagenow
