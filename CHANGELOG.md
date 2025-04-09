@@ -1,3 +1,9 @@
+## [1.2.7](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.6...v1.2.7) (2025-04-09)
+
+### Bug Fixes
+
+* **dictionaries:** add 'wpcontent', 'wpfooter', and 'pagenow' constants ([b2639f9](https://github.com/SP-Packages/cspell-dictionary/commit/b2639f9aff25fc0994d351c89decbc1ea0c8f8e0))
+
 ## [1.2.6](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.5...v1.2.6) (2025-04-06)
 
 ### Bug Fixes
