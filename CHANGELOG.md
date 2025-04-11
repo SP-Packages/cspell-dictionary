@@ -1,3 +1,9 @@
+## [1.2.9](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.8...v1.2.9) (2025-04-11)
+
+### Bug Fixes
+
+* **dictionaries:** add 'fcgi' and 'lsapi' to system dictionary ([f409ed7](https://github.com/SP-Packages/cspell-dictionary/commit/f409ed778102e651bf867029620a4622618ede5a))
+
 ## [1.2.8](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.7...v1.2.8) (2025-04-11)
 
 ### Bug Fixes
