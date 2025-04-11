@@ -1,12 +1,18 @@
 # System & Infrastructure
 abspath
 appserver
+autoflush
 creds
+fontobject
 lando
 lndo
+lscache
+mobi
+noabort
 phpmyadmin
 portforward
 siteurl
+webp
 webroot
 
 # Code
@@ -14,9 +20,15 @@ civis
 cnorm
 elif
 staticize
+ismobile
 
 # Style
 desaturated
+
+# Query String
+dropqs
+fbclid
+gclid
 
 # Server
 sshpass
