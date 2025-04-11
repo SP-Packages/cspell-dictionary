@@ -1,3 +1,9 @@
+## [1.2.8](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.7...v1.2.8) (2025-04-11)
+
+### Bug Fixes
+
+* **dictionaries:** add missing terms to system dictionary ([554306f](https://github.com/SP-Packages/cspell-dictionary/commit/554306f2873215e37e2eae31b78d25bc302b4ecf))
+
 ## [1.2.7](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.6...v1.2.7) (2025-04-09)
 
 ### Bug Fixes
