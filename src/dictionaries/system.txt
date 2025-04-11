@@ -3,9 +3,11 @@ abspath
 appserver
 autoflush
 creds
+fcgi
 fontobject
 lando
 lndo
+lsapi
 lscache
 mobi
 noabort
