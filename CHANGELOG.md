@@ -1,3 +1,9 @@
+## [1.2.10](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.9...v1.2.10) (2025-04-13)
+
+### Bug Fixes
+
+* **dictionaries:** add 'wpcf' constant to WordPress dictionary ([dc355f9](https://github.com/SP-Packages/cspell-dictionary/commit/dc355f98b718cf5cf97e40c4d6ec2149951de52d))
+
 ## [1.2.9](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.8...v1.2.9) (2025-04-11)
 
 ### Bug Fixes
