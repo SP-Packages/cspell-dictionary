@@ -1,3 +1,9 @@
+## [1.2.12](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.11...v1.2.12) (2025-04-14)
+
+### Bug Fixes
+
+* **dictionaries:** add 'Segoe', 'Neue', 'Consolas', and 'Lucida' fonts ([0adafc0](https://github.com/SP-Packages/cspell-dictionary/commit/0adafc0a458ca3b74c84e7bfdc497ee037d135c1))
+
 ## [1.2.11](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.10...v1.2.11) (2025-04-14)
 
 ### Bug Fixes
