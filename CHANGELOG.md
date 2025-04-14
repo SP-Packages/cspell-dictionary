@@ -1,3 +1,9 @@
+## [1.2.11](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.10...v1.2.11) (2025-04-14)
+
+### Bug Fixes
+
+* **dictionaries:** add 'wpnonce' constant to WordPress dictionary ([b1c1182](https://github.com/SP-Packages/cspell-dictionary/commit/b1c118244fde56cd34dc776877766a35b51cbc33))
+
 ## [1.2.10](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.9...v1.2.10) (2025-04-13)
 
 ### Bug Fixes
