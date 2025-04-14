@@ -26,4 +26,5 @@ wpfooter
 # Constants
 bloginfo
 pagenow
+pullquote
 wpnonce
