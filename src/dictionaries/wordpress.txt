@@ -28,3 +28,8 @@ bloginfo
 pagenow
 pullquote
 wpnonce
+WPINC
+
+URLs
+lostpassword
+resetpass

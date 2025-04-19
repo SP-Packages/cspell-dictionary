@@ -41,6 +41,7 @@ gclid
 # Server
 sshpass
 litespeed
+hostinger
 
 # Databases
 mysqldump
