@@ -1,3 +1,9 @@
+## [1.2.13](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.12...v1.2.13) (2025-04-19)
+
+### Bug Fixes
+
+* **dictionaries:** add additional words ([171f5ca](https://github.com/SP-Packages/cspell-dictionary/commit/171f5ca65709a95a1039a2acffa2cc13d6d16728))
+
 ## [1.2.12](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.11...v1.2.12) (2025-04-14)
 
 ### Bug Fixes
