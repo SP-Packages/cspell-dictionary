@@ -24,6 +24,7 @@ wpcontent
 wpfooter
 
 # Constants
+ajaxurl
 bloginfo
 pagenow
 pullquote
