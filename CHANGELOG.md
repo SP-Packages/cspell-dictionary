@@ -1,3 +1,9 @@
+## [1.2.14](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.13...v1.2.14) (2025-04-24)
+
+### Bug Fixes
+
+* **dictionaries:** add 'ajaxurl' constant to WordPress dictionary ([5ed6eb0](https://github.com/SP-Packages/cspell-dictionary/commit/5ed6eb0bafa9ff61c6e604f270b388e6caf4f524))
+
 ## [1.2.13](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.12...v1.2.13) (2025-04-19)
 
 ### Bug Fixes
