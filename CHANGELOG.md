@@ -1,3 +1,9 @@
+## [1.2.15](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.14...v1.2.15) (2025-05-03)
+
+### Bug Fixes
+
+* **dictionaries:** add 'wflogs' and 'wfwaf' to WordPress dictionary ([b5a9900](https://github.com/SP-Packages/cspell-dictionary/commit/b5a990034355a8aa7a584c2607c4a4982e3b8cc5))
+
 ## [1.2.14](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.13...v1.2.14) (2025-04-24)
 
 ### Bug Fixes
