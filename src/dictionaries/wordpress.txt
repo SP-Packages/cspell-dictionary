@@ -3,6 +3,8 @@
 wpackagist
 
 # Themes
+cvcard
+mycard
 norrsken
 twentytwenty
 
