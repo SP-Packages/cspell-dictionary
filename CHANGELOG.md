@@ -1,3 +1,9 @@
+## [1.2.16](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.15...v1.2.16) (2025-05-10)
+
+### Bug Fixes
+
+* **dictionaries:** add 'cvcard' and 'mycard' to WordPress dictionary ([58b4c36](https://github.com/SP-Packages/cspell-dictionary/commit/58b4c3609010e980f639227cbc6f7a3268855c5d))
+
 ## [1.2.15](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.14...v1.2.15) (2025-05-03)
 
 ### Bug Fixes
