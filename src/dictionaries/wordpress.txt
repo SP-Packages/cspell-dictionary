@@ -32,6 +32,8 @@ ajaxurl
 bloginfo
 pagenow
 pullquote
+testo
+triplelayout
 wpnonce
 WPINC
 
