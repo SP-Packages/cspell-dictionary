@@ -1,3 +1,9 @@
+## [1.2.17](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.16...v1.2.17) (2025-05-11)
+
+### Bug Fixes
+
+* **dictionaries:** add 'testo' and 'triplelayout' to dictionary ([9aa0270](https://github.com/SP-Packages/cspell-dictionary/commit/9aa0270a60c91b7554af5eb763e6944080ea16f6))
+
 ## [1.2.16](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.15...v1.2.16) (2025-05-10)
 
 ### Bug Fixes
