@@ -1,3 +1,9 @@
+## [1.2.18](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.17...v1.2.18) (2025-05-12)
+
+### Bug Fixes
+
+* **dictionaries:** add 'sidenav' to WordPress dictionary ([0620e9d](https://github.com/SP-Packages/cspell-dictionary/commit/0620e9dc3433dbab0ef3ca6c4cf8f62a3dc9c2cf))
+
 ## [1.2.17](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.16...v1.2.17) (2025-05-11)
 
 ### Bug Fixes
