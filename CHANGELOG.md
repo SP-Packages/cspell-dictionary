@@ -1,3 +1,9 @@
+## [1.2.19](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.18...v1.2.19) (2025-05-17)
+
+### Bug Fixes
+
+* **dictionaries:** add 'wpdb' to WordPress dictionary ([cc435bc](https://github.com/SP-Packages/cspell-dictionary/commit/cc435bc5b1d7068f4148d6e9cd68c480e098b8ce))
+
 ## [1.2.18](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.17...v1.2.18) (2025-05-12)
 
 ### Bug Fixes
