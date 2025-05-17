@@ -37,6 +37,7 @@ testo
 triplelayout
 wpnonce
 WPINC
+wpdb
 
 URLs
 lostpassword
