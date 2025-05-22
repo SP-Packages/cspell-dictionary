@@ -1,3 +1,9 @@
+## [1.2.21](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.20...v1.2.21) (2025-05-22)
+
+### Bug Fixes
+
+* **dependencies:** update dependencies ([9006d8e](https://github.com/SP-Packages/cspell-dictionary/commit/9006d8e57017b501f45baf27cd2bc94d27a7f9bb))
+
 ## [1.2.20](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.19...v1.2.20) (2025-05-22)
 
 ### Bug Fixes
