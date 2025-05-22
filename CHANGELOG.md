@@ -1,3 +1,11 @@
+## [1.2.20](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.19...v1.2.20) (2025-05-22)
+
+### Bug Fixes
+
+* **dependabot:** change npm and GitHub Actions updates to weekly ([2a714d4](https://github.com/SP-Packages/cspell-dictionary/commit/2a714d4ff19c90973a5cb2134baf9bb632eb629b))
+* **dependencies:** update dependencies ([2bad8ab](https://github.com/SP-Packages/cspell-dictionary/commit/2bad8ab9b63634eb81eefcae9b15d8aeb53ed2c9))
+* **workflows:** update action versions and maintain permissions ([5dc417e](https://github.com/SP-Packages/cspell-dictionary/commit/5dc417e68c81fd5671164965a1e63ed0fe821f5a))
+
 ## [1.2.19](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.18...v1.2.19) (2025-05-17)
 
 ### Bug Fixes
