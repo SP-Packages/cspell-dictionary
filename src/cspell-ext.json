@@ -29,5 +29,12 @@
       "path": "./dictionaries/wordpress.txt"
     }
   ],
-  "dictionaries": ["libraries", "linting-tools", "personal", "system", "vendor", "wordpress"]
+  "dictionaries": [
+    "libraries",
+    "linting-tools",
+    "personal",
+    "system",
+    "vendor",
+    "wordpress"
+  ]
 }

@@ -1,41 +1,42 @@
 export default {
-  branches: ["main"],
-  repositoryUrl: "https://github.com/SP-Packages/cspell-dictionary.git",
+  branches: ['main'],
+  repositoryUrl: 'https://github.com/SP-Packages/cspell-dictionary.git',
   plugins: [
     [
-      "@semantic-release/commit-analyzer",
+      '@semantic-release/commit-analyzer',
       {
-        preset: "conventionalcommits",
+        preset: 'conventionalcommits',
         releaseRules: [
           {
-            type: "build",
-            release: "patch",
-          },
-        ],
-      },
+            type: 'build',
+            release: 'patch'
+          }
+        ]
+      }
     ],
     [
-      "@semantic-release/release-notes-generator",
+      '@semantic-release/release-notes-generator',
       {
-        preset: "conventionalcommits",
-      },
+        preset: 'conventionalcommits'
+      }
     ],
-    "@semantic-release/changelog",
-    "@semantic-release/npm",
+    '@semantic-release/changelog',
+    '@semantic-release/npm',
     [
-      "@semantic-release/exec",
+      '@semantic-release/exec',
       {
         // Regenerating package-lock.json
-        prepareCmd: "npm install --package-lock-only",
-      },
+        prepareCmd: 'npm install --package-lock-only'
+      }
     ],
     [
-      "@semantic-release/git",
+      '@semantic-release/git',
       {
-        assets: ["CHANGELOG.md", "package.json", "package-lock.json"],
-        message: "chore(release): v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
-      },
+        assets: ['CHANGELOG.md', 'package.json', 'package-lock.json'],
+        message:
+          'chore(release): v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
+      }
     ],
-    "@semantic-release/github",
-  ],
+    '@semantic-release/github'
+  ]
 };
