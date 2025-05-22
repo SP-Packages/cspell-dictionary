@@ -8,12 +8,12 @@ on:
       - develop
 
 permissions:
+  issues: write
   contents: write
   pull-requests: write
-  issues: write
 
 jobs:
   prepare:
-    uses: SP-Packages/actions/.github/workflows/code-quality.yml@v1.1.2
+    uses: SP-Packages/actions/.github/workflows/code-quality.yml@v1.1.5
     with:
       VERBOSE: true

@@ -6,23 +6,23 @@ on:
       - main
 
 permissions:
+  issues: write
   contents: write
   pull-requests: write
-  issues: write
 
 jobs:
   prepare:
-    uses: SP-Packages/actions/.github/workflows/code-quality.yml@v1.1.2
+    uses: SP-Packages/actions/.github/workflows/code-quality.yml@v1.1.5
     with:
       VERBOSE: true
 
   release:
     needs: prepare
-    uses: SP-Packages/actions/.github/workflows/semantic-release.yml@v1.1.2
+    uses: SP-Packages/actions/.github/workflows/semantic-release.yml@v1.1.5
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
   rebase:
     needs: release
-    uses: SP-Packages/actions/.github/workflows/rebase-develop.yml@v1.1.2
+    uses: SP-Packages/actions/.github/workflows/rebase-develop.yml@v1.1.5
