@@ -5,6 +5,7 @@ autoflush
 creds
 fcgi
 fontobject
+ftpconfig
 lando
 lndo
 lsapi
