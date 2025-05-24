@@ -1,3 +1,9 @@
+## [1.2.23](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.22...v1.2.23) (2025-05-24)
+
+### Bug Fixes
+
+* **dictionary:** add 'ftpconfig' to the system dictionary entries ([099c280](https://github.com/SP-Packages/cspell-dictionary/commit/099c280628a71544523db7b7e0fe1e0cb82ea7cd))
+
 ## [1.2.22](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.21...v1.2.22) (2025-05-24)
 
 ### Bug Fixes
