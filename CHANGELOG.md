@@ -1,3 +1,9 @@
+## [1.2.22](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.21...v1.2.22) (2025-05-24)
+
+### Bug Fixes
+
+* **wordpress:** add 'wpblog' to the dictionary entries ([06b99e7](https://github.com/SP-Packages/cspell-dictionary/commit/06b99e79fd20ff33ed0d453fbaf9df3c61c8fd5f))
+
 ## [1.2.21](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.20...v1.2.21) (2025-05-22)
 
 ### Bug Fixes
