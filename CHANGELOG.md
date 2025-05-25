@@ -1,3 +1,9 @@
+## [1.2.24](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.23...v1.2.24) (2025-05-25)
+
+### Bug Fixes
+
+* **wordpress:** add 'wp_unslash' to the dictionary entries ([3c10367](https://github.com/SP-Packages/cspell-dictionary/commit/3c10367759259e6820e8661f1b68ffd053c1919b))
+
 ## [1.2.23](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.22...v1.2.23) (2025-05-24)
 
 ### Bug Fixes
