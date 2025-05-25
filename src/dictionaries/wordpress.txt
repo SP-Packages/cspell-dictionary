@@ -39,6 +39,7 @@ wpnonce
 WPINC
 wpblog
 wpdb
+wp_unslash
 
 URLs
 lostpassword
