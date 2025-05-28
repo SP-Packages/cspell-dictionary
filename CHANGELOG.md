@@ -1,3 +1,9 @@
+## [1.2.25](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.24...v1.2.25) (2025-05-28)
+
+### Bug Fixes
+
+* **dictionary:** add 'adsense' to the vendor dictionary entries ([bfd2bee](https://github.com/SP-Packages/cspell-dictionary/commit/bfd2bee9841e7ed438b532fd2765b7c8f27f765d))
+
 ## [1.2.24](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.23...v1.2.24) (2025-05-25)
 
 ### Bug Fixes
