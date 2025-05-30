@@ -1,3 +1,9 @@
+## [1.2.27](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.26...v1.2.27) (2025-05-30)
+
+### Bug Fixes
+
+* **dictionary:** add 'adinserter' and 'alignwide' entries ([4ee0519](https://github.com/SP-Packages/cspell-dictionary/commit/4ee0519cf163c9013bff9261ef6422631eb538a9))
+
 ## [1.2.26](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.25...v1.2.26) (2025-05-28)
 
 ### Bug Fixes
