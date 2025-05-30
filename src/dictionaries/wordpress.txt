@@ -10,6 +10,7 @@ twentytwenty
 
 # Plugins
 muplugin
+adinserter
 akismet
 autodescription
 envira
@@ -22,6 +23,7 @@ wpcf
 wordfence
 
 # Classes
+alignwide
 adminmenuback
 adminmenuwrap
 wpcontent
