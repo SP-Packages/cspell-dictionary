@@ -1,3 +1,9 @@
+## [1.2.28](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.27...v1.2.28) (2025-05-31)
+
+### Bug Fixes
+
+* **dictionary:** add 'postmansmtp' entry to WordPress dictionary ([3c0fa16](https://github.com/SP-Packages/cspell-dictionary/commit/3c0fa16c60d85c88d8e7b9c8913d02880a9a65af))
+
 ## [1.2.27](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.26...v1.2.27) (2025-05-30)
 
 ### Bug Fixes
