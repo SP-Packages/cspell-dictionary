@@ -16,6 +16,7 @@ autodescription
 envira
 mailpoet
 theseoframework
+postmansmtp
 updraftplus
 wflogs
 wfwaf
