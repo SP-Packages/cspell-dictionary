@@ -14,6 +14,7 @@ adinserter
 akismet
 autodescription
 envira
+exploreezy
 mailpoet
 theseoframework
 postmansmtp
