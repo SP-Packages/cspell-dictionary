@@ -1,3 +1,9 @@
+## [1.2.29](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.28...v1.2.29) (2025-06-01)
+
+### Bug Fixes
+
+* **dictionary:** add 'exploreezy' entry to WordPress dictionary ([2f96be6](https://github.com/SP-Packages/cspell-dictionary/commit/2f96be62e54b9e0fb2216253d6deef4c28f17601))
+
 ## [1.2.28](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.27...v1.2.28) (2025-05-31)
 
 ### Bug Fixes
