@@ -1,4 +1,5 @@
 # Vendor Names
+balée
 dealerdirect
 johnpbloch
 squizlabs
