@@ -1,3 +1,9 @@
+## [1.2.30](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.29...v1.2.30) (2025-06-08)
+
+### Bug Fixes
+
+* **dictionary:** add 'balée' entry to vendor names list ([6a4177b](https://github.com/SP-Packages/cspell-dictionary/commit/6a4177ba5ddbfd640ed510fdd3ea5f99b1feffa9))
+
 ## [1.2.29](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.28...v1.2.29) (2025-06-01)
 
 ### Bug Fixes
