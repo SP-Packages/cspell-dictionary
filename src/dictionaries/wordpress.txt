@@ -31,6 +31,9 @@ adminmenuwrap
 wpcontent
 wpfooter
 
+# Functions
+wp_kses_post
+
 # Constants
 ajaxurl
 bloginfo
