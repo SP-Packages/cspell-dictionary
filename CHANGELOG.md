@@ -1,3 +1,9 @@
+## [1.2.31](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.30...v1.2.31) (2025-06-09)
+
+### Bug Fixes
+
+* **dictionary:** add 'wp_kses_post' entry to WordPress functions list ([7d60ff8](https://github.com/SP-Packages/cspell-dictionary/commit/7d60ff89f27cbc905ce01272db5cdeaebd203d87))
+
 ## [1.2.30](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.29...v1.2.30) (2025-06-08)
 
 ### Bug Fixes
