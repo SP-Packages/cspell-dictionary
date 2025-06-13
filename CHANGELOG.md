@@ -1,3 +1,9 @@
+## [1.2.32](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.31...v1.2.32) (2025-06-13)
+
+### Bug Fixes
+
+* **dictionary:** add 'absint' entry to WordPress functions list ([ae15f5d](https://github.com/SP-Packages/cspell-dictionary/commit/ae15f5ded7c140116b8af4a1316f8e01c9c5d070))
+
 ## [1.2.31](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.30...v1.2.31) (2025-06-09)
 
 ### Bug Fixes
