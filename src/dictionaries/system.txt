@@ -3,6 +3,7 @@ abspath
 appserver
 autoflush
 creds
+errmode
 fcgi
 fontobject
 ftpconfig
