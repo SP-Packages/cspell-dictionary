@@ -1,3 +1,9 @@
+## [1.2.33](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.32...v1.2.33) (2025-06-15)
+
+### Bug Fixes
+
+* **dictionary:** add 'errmode' entry to system dictionary ([a956a21](https://github.com/SP-Packages/cspell-dictionary/commit/a956a21883ac34e2ee6d2430c6fae8e491a73f96))
+
 ## [1.2.32](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.31...v1.2.32) (2025-06-13)
 
 ### Bug Fixes
