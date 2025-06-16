@@ -1,3 +1,9 @@
+## [1.2.34](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.33...v1.2.34) (2025-06-16)
+
+### Bug Fixes
+
+* **dictionary:** add 'xmark' entry to Font Awesome section ([00aa190](https://github.com/SP-Packages/cspell-dictionary/commit/00aa1908583ae88a4b39b04bfd50462ebd99d845))
+
 ## [1.2.33](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.32...v1.2.33) (2025-06-15)
 
 ### Bug Fixes
