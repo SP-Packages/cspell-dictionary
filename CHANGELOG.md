@@ -1,3 +1,9 @@
+## [1.2.36](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.35...v1.2.36) (2025-06-18)
+
+### Bug Fixes
+
+* **dictionary:** add 'sshconfig' entry to system dictionary ([6407113](https://github.com/SP-Packages/cspell-dictionary/commit/6407113866fd1d24eb96af96ccf8d8f4195d5b83))
+
 ## [1.2.35](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.34...v1.2.35) (2025-06-18)
 
 ### Bug Fixes
