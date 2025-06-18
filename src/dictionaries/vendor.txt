@@ -1,12 +1,18 @@
 # Vendor Names
 balée
 dealerdirect
+dbaeumer
+esbenp
 johnpbloch
 squizlabs
+stenberg
 shivammathur
 szepeviktor
 vlucas
 webfactory
+myvendor
+yourusername
+yourcompany
 
 # Brands
 adsense

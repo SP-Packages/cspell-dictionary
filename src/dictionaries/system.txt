@@ -3,21 +3,30 @@ abspath
 appserver
 autoflush
 creds
+curlopt
 errmode
 fcgi
 fontobject
 ftpconfig
+httpheader
 lando
 lndo
 lsapi
 lscache
 mobi
 noabort
+returntransfer
 phpmyadmin
 portforward
+poweroff
 siteurl
 webp
 webroot
+
+# Tools
+vimdiff
+blackfire
+xhprof
 
 # Code
 civis
@@ -25,6 +34,11 @@ cnorm
 elif
 staticize
 ismobile
+lessc
+
+# Python
+pytest
+makedirs
 
 # Fonts
 Segoe
@@ -46,5 +60,45 @@ litespeed
 hostinger
 
 # Databases
+dbadmin
 mysqldump
 tablespaces
+
+# Parameters
+czvf
+xvzf
+cjvf
+oneline
+
+# Acronyms
+MOTW
+ENOENT
+
+# Stack
+lemp
+
+# Drupal
+drush
+multidev
+updb
+updatedb
+ucrt
+upwd
+yamls
+
+#GitHub
+gitmodules
+unstages
+unstaging
+reflog
+worktree
+
+# Miscellaneous
+AAAAC
+apikey
+metapackage
+customterm
+anotherterm
+exampleword
+passwordless
+unregistration

@@ -23,6 +23,8 @@ wflogs
 wfwaf
 wpcf
 wordfence
+yoast
+wpseo
 
 # Classes
 alignwide

@@ -6,7 +6,17 @@ fontawesome
 intelephense
 landorc
 phpdotenv
-
+repomix
+choco
+sourcegraph
+myproject
+mysite
 
 # Font Awesome
 xmark
+
+# related
+cspellignore
+lintstagedrc
+stylelintignore
+releaserc
