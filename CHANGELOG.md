@@ -1,3 +1,9 @@
+## [1.2.35](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.34...v1.2.35) (2025-06-18)
+
+### Bug Fixes
+
+* **dictionary:** update libraries, system, vendor, and WordPress entries ([f9619a1](https://github.com/SP-Packages/cspell-dictionary/commit/f9619a1c7b5ef82b3fb92a7ce8b8137b7bf3f02b))
+
 ## [1.2.34](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.33...v1.2.34) (2025-06-16)
 
 ### Bug Fixes
