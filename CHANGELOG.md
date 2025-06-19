@@ -1,3 +1,9 @@
+## [1.2.37](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.36...v1.2.37) (2025-06-19)
+
+### Bug Fixes
+
+* **dictionary:** add 'favorited', 'firstname', and 'lastname' entries ([797ade5](https://github.com/SP-Packages/cspell-dictionary/commit/797ade525c0ebd1a9e7e765f8a69a548cec8511e))
+
 ## [1.2.36](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.35...v1.2.36) (2025-06-18)
 
 ### Bug Fixes
