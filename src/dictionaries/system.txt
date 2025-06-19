@@ -99,6 +99,9 @@ AAAAC
 apikey
 metapackage
 customterm
+favorited
+firstname
+lastname
 anotherterm
 exampleword
 passwordless
