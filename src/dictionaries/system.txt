@@ -36,6 +36,7 @@ elif
 staticize
 ismobile
 lessc
+orangered
 
 # Python
 pytest
