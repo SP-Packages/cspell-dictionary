@@ -1,3 +1,9 @@
+## [1.2.38](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.37...v1.2.38) (2025-06-20)
+
+### Bug Fixes
+
+* **dictionary:** add 'orangered' entry to system dictionary ([2e5e678](https://github.com/SP-Packages/cspell-dictionary/commit/2e5e678f73253f4e82cc1ecc6ead8ddee803ab7b))
+
 ## [1.2.37](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.36...v1.2.37) (2025-06-19)
 
 ### Bug Fixes
