@@ -107,3 +107,9 @@ anotherterm
 exampleword
 passwordless
 unregistration
+
+
+# Email
+phpmailer
+STARTTLS
+SMTPS
