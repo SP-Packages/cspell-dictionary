@@ -1,3 +1,9 @@
+## [1.2.39](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.38...v1.2.39) (2025-06-22)
+
+### Bug Fixes
+
+* **dictionary:** add 'phpmailer', 'STARTTLS', and 'SMTPS' entries ([abd7293](https://github.com/SP-Packages/cspell-dictionary/commit/abd72934ef96a444d6009a975547fc58d90a7213))
+
 ## [1.2.38](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.37...v1.2.38) (2025-06-20)
 
 ### Bug Fixes
