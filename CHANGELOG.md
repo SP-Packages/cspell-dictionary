@@ -1,3 +1,9 @@
+## [1.2.40](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.39...v1.2.40) (2025-06-25)
+
+### Bug Fixes
+
+* **dictionary:** add 'uncategorized' entry to system dictionary ([0b4afe6](https://github.com/SP-Packages/cspell-dictionary/commit/0b4afe6e34953de259a5f4b237c09792dbfc1bec))
+
 ## [1.2.39](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.38...v1.2.39) (2025-06-22)
 
 ### Bug Fixes
