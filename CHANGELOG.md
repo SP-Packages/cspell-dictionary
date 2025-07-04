@@ -1,3 +1,9 @@
+## [1.2.41](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.40...v1.2.41) (2025-07-04)
+
+### Bug Fixes
+
+* **dictionary:** add 'valuenow' entry to system dictionary ([8cb1241](https://github.com/SP-Packages/cspell-dictionary/commit/8cb1241151d6dd2516acc1302fcc72a48f4d28ca))
+
 ## [1.2.40](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.39...v1.2.40) (2025-06-25)
 
 ### Bug Fixes
