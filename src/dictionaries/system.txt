@@ -21,6 +21,7 @@ portforward
 poweroff
 siteurl
 sshconfig
+valuenow
 webp
 webroot
 
