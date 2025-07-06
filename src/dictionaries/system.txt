@@ -63,6 +63,7 @@ litespeed
 hostinger
 
 # Databases
+ibfk
 dbadmin
 mysqldump
 tablespaces
