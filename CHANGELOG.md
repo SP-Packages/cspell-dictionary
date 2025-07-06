@@ -1,3 +1,9 @@
+## [1.2.42](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.41...v1.2.42) (2025-07-06)
+
+### Bug Fixes
+
+* **dictionary:** add 'ibfk' entry to system dictionary ([3f3eb60](https://github.com/SP-Packages/cspell-dictionary/commit/3f3eb60f0640ac5e24dca377ab5d21dd512a6e1a))
+
 ## [1.2.41](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.40...v1.2.41) (2025-07-04)
 
 ### Bug Fixes
