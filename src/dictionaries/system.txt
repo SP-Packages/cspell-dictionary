@@ -116,3 +116,11 @@ uncategorized
 phpmailer
 STARTTLS
 SMTPS
+
+# Domains
+akamaized
+bitgravity
+crabdance
+vidcdn
+vidgyor
+yuppmedtaorire
