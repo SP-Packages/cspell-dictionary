@@ -1,3 +1,9 @@
+## [1.2.43](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.42...v1.2.43) (2025-07-08)
+
+### Bug Fixes
+
+* **dictionary:** add new domain entries to system dictionary ([43e23e7](https://github.com/SP-Packages/cspell-dictionary/commit/43e23e790d277d5accc374682ca7ea7ccc824e2e))
+
 ## [1.2.42](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.41...v1.2.42) (2025-07-06)
 
 ### Bug Fixes
