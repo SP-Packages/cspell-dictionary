@@ -1,3 +1,9 @@
+## [1.2.44](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.43...v1.2.44) (2025-07-09)
+
+### Bug Fixes
+
+* **dictionary:** add 'seekbackward' and 'seekforward' entries ([3dda99f](https://github.com/SP-Packages/cspell-dictionary/commit/3dda99f1d915f3b319cf428777967d8fef15374e))
+
 ## [1.2.43](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.42...v1.2.43) (2025-07-08)
 
 ### Bug Fixes
