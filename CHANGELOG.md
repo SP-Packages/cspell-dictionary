@@ -1,3 +1,9 @@
+## [1.2.45](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.44...v1.2.45) (2025-07-15)
+
+### Bug Fixes
+
+* **dictionary:** add 'httponly' entry to system dictionary ([feaf7a1](https://github.com/SP-Packages/cspell-dictionary/commit/feaf7a1eb89d034714186b73ab43e863d8560f3e))
+
 ## [1.2.44](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.43...v1.2.44) (2025-07-09)
 
 ### Bug Fixes
