@@ -1,3 +1,9 @@
+## [1.2.46](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.45...v1.2.46) (2025-07-15)
+
+### Bug Fixes
+
+* **dictionary:** add 'KHTML' entry to system dictionary ([a1ab60d](https://github.com/SP-Packages/cspell-dictionary/commit/a1ab60d821c2f8d6e59ec72d955b8c6ffbecaad2))
+
 ## [1.2.45](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.44...v1.2.45) (2025-07-15)
 
 ### Bug Fixes
