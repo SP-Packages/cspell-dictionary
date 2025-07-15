@@ -9,6 +9,7 @@ fcgi
 fontobject
 ftpconfig
 httpheader
+httponly
 lando
 lndo
 lsapi
