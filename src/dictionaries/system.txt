@@ -127,3 +127,6 @@ crabdance
 vidcdn
 vidgyor
 yuppmedtaorire
+
+# Hidden Files
+.distignore
