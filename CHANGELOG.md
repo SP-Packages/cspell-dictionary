@@ -1,3 +1,9 @@
+## [1.2.48](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.47...v1.2.48) (2025-08-11)
+
+### Bug Fixes
+
+* **dictionaries:** add .distignore to hidden files section ([5919cda](https://github.com/SP-Packages/cspell-dictionary/commit/5919cda0cffe081ee297ce43c572e9e1a36aa401))
+
 ## [1.2.47](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.46...v1.2.47) (2025-07-26)
 
 ### Bug Fixes
