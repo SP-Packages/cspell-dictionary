@@ -4,6 +4,7 @@ dealerdirect
 dbaeumer
 esbenp
 johnpbloch
+softprops
 squizlabs
 stenberg
 shivammathur
