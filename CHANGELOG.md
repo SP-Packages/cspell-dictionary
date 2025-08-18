@@ -1,3 +1,9 @@
+## [1.2.49](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.48...v1.2.49) (2025-08-18)
+
+### Bug Fixes
+
+* **dictionaries:** add softprops to vendor names list ([0100ac4](https://github.com/SP-Packages/cspell-dictionary/commit/0100ac4b76fda8f16c9b7f3c87babeffcfe98481))
+
 ## [1.2.48](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.47...v1.2.48) (2025-08-11)
 
 ### Bug Fixes
