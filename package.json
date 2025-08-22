@@ -49,7 +49,7 @@
   },
   "lint-staged": {
     "*": [
-      "npx lintrc"
+      "npx lintrc --strict"
     ]
   },
   "devDependencies": {
