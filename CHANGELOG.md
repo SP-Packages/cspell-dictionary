@@ -1,3 +1,14 @@
+## [1.2.50](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.49...v1.2.50) (2025-08-22)
+
+### Bug Fixes
+
+* **dependencies:** update dependencies ([8a79909](https://github.com/SP-Packages/cspell-dictionary/commit/8a799094b5997c593f16f86ad6bfb4b59c427051))
+* **dependencies:** update dependencies ([09c43d3](https://github.com/SP-Packages/cspell-dictionary/commit/09c43d3e3c89fd6ce903591c0a3bcc9bbf51280b))
+* **depkit, lintrc:** update behaviors to warn and add new tools ([28cf7fb](https://github.com/SP-Packages/cspell-dictionary/commit/28cf7fbcd59deb722d9e3f7287d61e449eb9d0bf))
+* **lint-staged:** enforce strict mode for lintrc in lint-staged config ([3ec5f43](https://github.com/SP-Packages/cspell-dictionary/commit/3ec5f434f2891c2c6d9739414fc1f8bee289d76b))
+* **release.config:** remove release rules from commit analyzer config ([6482252](https://github.com/SP-Packages/cspell-dictionary/commit/6482252117909d303e9d8dd94201cb8268fff64f))
+* **scripts:** change postinstall script to prepare for husky ([fd97519](https://github.com/SP-Packages/cspell-dictionary/commit/fd97519082819db2002dab651aa19b64c7643c58))
+
 ## [1.2.49](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.48...v1.2.49) (2025-08-18)
 
 ### Bug Fixes
