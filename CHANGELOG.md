@@ -1,3 +1,9 @@
+## [1.2.51](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.50...v1.2.51) (2025-09-04)
+
+### Bug Fixes
+
+* **wordpress:** add 'wp_kses' function to the dictionary ([d968f46](https://github.com/SP-Packages/cspell-dictionary/commit/d968f46c63e96f04785ec32676e3a6c7db60bd53))
+
 ## [1.2.50](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.49...v1.2.50) (2025-08-22)
 
 ### Bug Fixes
