@@ -35,6 +35,7 @@ wpfooter
 
 # Functions
 absint
+wp_kses
 wp_kses_post
 
 # Constants
