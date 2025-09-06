@@ -1,3 +1,9 @@
+## [1.2.52](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.51...v1.2.52) (2025-09-06)
+
+### Bug Fixes
+
+* **dictionary:** add 'spacebar' to the system dictionary ([b5742e1](https://github.com/SP-Packages/cspell-dictionary/commit/b5742e112af752233a85765b4a7572415a462ba8))
+
 ## [1.2.51](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.50...v1.2.51) (2025-09-04)
 
 ### Bug Fixes
