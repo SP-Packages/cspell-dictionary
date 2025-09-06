@@ -110,6 +110,7 @@ lastname
 anotherterm
 exampleword
 passwordless
+spacebar
 seekbackward
 seekforward
 unregistration
