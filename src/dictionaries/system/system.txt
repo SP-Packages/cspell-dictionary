@@ -43,10 +43,14 @@ Segoe
 desaturated
 
 # Web Technologies
+changefreq
 curlopt
 errmode
 fontobject
 ftpconfig
+lastmod
+nosniff
+urlset
 webp
 
 # Server & Hosting
@@ -72,6 +76,7 @@ xvzf
 ENOENT
 KHTML
 MOTW
+SAMEORIGIN
 
 # Technology Stacks
 lemp
