@@ -5,28 +5,27 @@
   "dictionaryDefinitions": [
     {
       "name": "libraries",
-      "path": "./dictionaries/libraries.txt"
+      "path": "./dictionaries/libraries/libraries.txt"
     },
     {
       "name": "linting-tools",
-      "path": "./dictionaries/linting-tools.txt"
+      "path": "./dictionaries/development/linting-tools.txt"
     },
     {
       "name": "personal",
-      "path": "./dictionaries/personal.txt"
+      "path": "./dictionaries/personal/personal.txt"
     },
     {
       "name": "system",
-      "path": "./dictionaries/system.txt"
+      "path": "./dictionaries/system/system.txt"
     },
     {
       "name": "vendor",
-      "path": "./dictionaries/vendor.txt"
+      "path": "./dictionaries/vendors/vendor.txt"
     },
-
     {
       "name": "wordpress",
-      "path": "./dictionaries/wordpress.txt"
+      "path": "./dictionaries/platforms/wordpress.txt"
     }
   ],
   "dictionaries": [

@@ -1,0 +1,27 @@
+# JavaScript Libraries & Frameworks
+dotenv
+fontawesome
+intelephense
+phpdotenv
+sourcegraph
+
+# Package Managers
+choco
+
+# Development Tools
+copyrc
+landorc
+repomix
+
+# Font Awesome Components
+xmark
+
+# Project Names
+myproject
+mysite
+
+# Configuration Files
+cspellignore
+lintstagedrc
+releaserc
+stylelintignore

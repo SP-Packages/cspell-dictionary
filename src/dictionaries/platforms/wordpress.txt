@@ -1,44 +1,43 @@
-# WordPress
-
+# WordPress Core
 wpackagist
 
-# Themes
+# WordPress Themes
 cvcard
 mycard
 norrsken
 twentytwenty
 
-# Plugins
-muplugin
+# WordPress Plugins
 adinserter
 akismet
 autodescription
 envira
 exploreezy
 mailpoet
-theseoframework
+muplugin
 postmansmtp
+theseoframework
 updraftplus
 wflogs
 wfwaf
-wpcf
 wordfence
-yoast
+wpcf
 wpseo
+yoast
 
-# Classes
-alignwide
+# WordPress CSS Classes
 adminmenuback
 adminmenuwrap
+alignwide
 wpcontent
 wpfooter
 
-# Functions
+# WordPress Functions
 absint
 wp_kses
 wp_kses_post
 
-# Constants
+# WordPress Constants
 ajaxurl
 bloginfo
 pagenow
@@ -46,12 +45,12 @@ pullquote
 sidenav
 testo
 triplelayout
-wpnonce
-WPINC
 wpblog
 wpdb
 wp_unslash
+wpnonce
+WPINC
 
-URLs
+# WordPress URLs
 lostpassword
 resetpass

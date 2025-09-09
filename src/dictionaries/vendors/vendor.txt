@@ -1,20 +1,23 @@
-# Vendor Names
+# Open Source Contributors
 balée
-dealerdirect
 dbaeumer
+dealerdirect
 esbenp
 johnpbloch
+shivammathur
 softprops
 squizlabs
 stenberg
-shivammathur
 szepeviktor
 vlucas
 webfactory
-myvendor
-yourusername
-yourcompany
 
-# Brands
+# Placeholder Names
+mycompany
+myvendor
+yourcompany
+yourusername
+
+# Third-Party Services
 adsense
 disqus

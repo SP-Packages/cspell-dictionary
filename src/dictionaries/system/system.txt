@@ -1,0 +1,128 @@
+# System Infrastructure
+abspath
+appserver
+autoflush
+creds
+fcgi
+httpheader
+httponly
+lsapi
+lscache
+mobi
+noabort
+phpmyadmin
+portforward
+poweroff
+returntransfer
+siteurl
+sshconfig
+valuenow
+webroot
+
+# Development Tools
+blackfire
+vimdiff
+xhprof
+
+# Programming Languages & Frameworks
+civis
+cnorm
+elif
+ismobile
+lessc
+makedirs
+orangered
+pytest
+staticize
+
+# Fonts & Typography
+Consolas
+Lucida
+Neue
+Segoe
+desaturated
+
+# Web Technologies
+curlopt
+errmode
+fontobject
+ftpconfig
+webp
+
+# Server & Hosting
+hostinger
+litespeed
+lando
+lndo
+sshpass
+
+# Database Terms
+dbadmin
+ibfk
+mysqldump
+tablespaces
+
+# Command Line & Archives
+cjvf
+czvf
+oneline
+xvzf
+
+# System Acronyms
+ENOENT
+KHTML
+MOTW
+
+# Technology Stacks
+lemp
+
+# Content Management Systems
+drush
+multidev
+updb
+updatedb
+ucrt
+upwd
+yamls
+
+# Version Control
+gitmodules
+reflog
+unstages
+unstaging
+worktree
+
+# Email & Communication
+phpmailer
+SMTPS
+STARTTLS
+
+# CDN & Domains
+akamaized
+bitgravity
+crabdance
+vidcdn
+vidgyor
+yuppmedtaorire
+
+# Configuration & Files
+distignore
+apikey
+metapackage
+
+# User Interface Terms
+customterm
+favorited
+firstname
+lastname
+anotherterm
+exampleword
+passwordless
+spacebar
+seekbackward
+seekforward
+unregistration
+uncategorized
+
+# Miscellaneous
+AAAAC

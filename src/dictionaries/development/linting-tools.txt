@@ -1,5 +1,4 @@
-# Development Tools & Linting
-carryforward
+# Code Quality & Linting Tools
 codesniffer
 commitlint
 conventionalcommits
@@ -11,3 +10,6 @@ phpcbf
 phpcodesniffer
 phpcsfixer
 wpcs
+
+# Development Utilities
+carryforward
