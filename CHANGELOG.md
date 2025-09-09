@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.52...v1.3.0) (2025-09-09)
+
+### Features
+
+* **dictionary:** restructure dictionary paths and add new entries ([850cd1b](https://github.com/SP-Packages/cspell-dictionary/commit/850cd1baba30dbe839386b897882cdc9f79ae3c1))
+
 ## [1.2.52](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.51...v1.2.52) (2025-09-06)
 
 ### Bug Fixes
