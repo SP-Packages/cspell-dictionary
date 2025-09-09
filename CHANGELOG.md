@@ -1,3 +1,13 @@
+## [1.4.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.3.0...v1.4.0) (2025-09-09)
+
+### Features
+
+* **workspace:** add initial cspell dictionary workspace configuration ([a6a3eee](https://github.com/SP-Packages/cspell-dictionary/commit/a6a3eee53c504f910b1c669e3cc0c0919c314751))
+
+### Bug Fixes
+
+* **dictionary:** add new entries for web technologies and security terms ([3b97ca5](https://github.com/SP-Packages/cspell-dictionary/commit/3b97ca50533a0c898ed163d78d4ba8aaa1fe1c94))
+
 ## [1.3.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.2.52...v1.3.0) (2025-09-09)
 
 ### Features
