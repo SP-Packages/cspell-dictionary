@@ -116,6 +116,10 @@ apikey
 metapackage
 
 # User Interface Terms
+arrowleft
+arrowright
+arrowup
+arrowdown
 customterm
 favorited
 firstname
