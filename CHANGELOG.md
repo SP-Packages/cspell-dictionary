@@ -1,3 +1,9 @@
+## [1.4.1](https://github.com/SP-Packages/cspell-dictionary/compare/v1.4.0...v1.4.1) (2025-09-19)
+
+### Bug Fixes
+
+* **dictionary:** add navigation arrow terms to the system dictionary ([7546c04](https://github.com/SP-Packages/cspell-dictionary/commit/7546c0484cfb1c544ae402e2e04604f72550ebad))
+
 ## [1.4.0](https://github.com/SP-Packages/cspell-dictionary/compare/v1.3.0...v1.4.0) (2025-09-09)
 
 ### Features
