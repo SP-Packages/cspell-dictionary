@@ -1,3 +1,9 @@
+## [1.4.2](https://github.com/SP-Packages/cspell-dictionary/compare/v1.4.1...v1.4.2) (2025-09-23)
+
+### Bug Fixes
+
+* **dictionary:** add 'adsbygoogle' to the third-party services list ([dce98b0](https://github.com/SP-Packages/cspell-dictionary/commit/dce98b03afdd6855a3a0a5693056da957d0746a2))
+
 ## [1.4.1](https://github.com/SP-Packages/cspell-dictionary/compare/v1.4.0...v1.4.1) (2025-09-19)
 
 ### Bug Fixes
