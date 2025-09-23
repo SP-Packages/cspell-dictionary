@@ -20,4 +20,5 @@ yourusername
 
 # Third-Party Services
 adsense
+adsbygoogle
 disqus
